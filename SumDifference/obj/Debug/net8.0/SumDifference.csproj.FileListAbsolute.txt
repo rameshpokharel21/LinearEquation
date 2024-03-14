@@ -1,0 +1,14 @@
+C:\Users\sid\Desktop\csharp\LinearEquation\SumDifference\obj\Debug\net8.0\SumDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sid\Desktop\csharp\LinearEquation\SumDifference\obj\Debug\net8.0\SumDifference.AssemblyInfoInputs.cache
+C:\Users\sid\Desktop\csharp\LinearEquation\SumDifference\obj\Debug\net8.0\SumDifference.AssemblyInfo.cs
+C:\Users\sid\Desktop\csharp\LinearEquation\SumDifference\obj\Debug\net8.0\SumDifference.csproj.CoreCompileInputs.cache
+C:\Users\sid\Desktop\csharp\LinearEquation\SumDifference\bin\Debug\net8.0\SumDifference.exe
+C:\Users\sid\Desktop\csharp\LinearEquation\SumDifference\bin\Debug\net8.0\SumDifference.deps.json
+C:\Users\sid\Desktop\csharp\LinearEquation\SumDifference\bin\Debug\net8.0\SumDifference.runtimeconfig.json
+C:\Users\sid\Desktop\csharp\LinearEquation\SumDifference\bin\Debug\net8.0\SumDifference.dll
+C:\Users\sid\Desktop\csharp\LinearEquation\SumDifference\bin\Debug\net8.0\SumDifference.pdb
+C:\Users\sid\Desktop\csharp\LinearEquation\SumDifference\obj\Debug\net8.0\SumDifference.dll
+C:\Users\sid\Desktop\csharp\LinearEquation\SumDifference\obj\Debug\net8.0\refint\SumDifference.dll
+C:\Users\sid\Desktop\csharp\LinearEquation\SumDifference\obj\Debug\net8.0\SumDifference.pdb
+C:\Users\sid\Desktop\csharp\LinearEquation\SumDifference\obj\Debug\net8.0\SumDifference.genruntimeconfig.cache
+C:\Users\sid\Desktop\csharp\LinearEquation\SumDifference\obj\Debug\net8.0\ref\SumDifference.dll
